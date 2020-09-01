@@ -2,7 +2,7 @@
 
 Vue.js + Node.js + Typescript Full Stack Web Developer
 
-[More...](andy0414.com)
+[More...](https://andy0414.com/)
 <!--
 **Andy-0414/Andy-0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
