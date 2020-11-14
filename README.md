@@ -1,4 +1,4 @@
-### Andy-0414 (andy0414.com)
+### Andy-0414 ([andy0414.com](andy0414.com))
 
 [![STATS](https://github-readme-stats.vercel.app/api?username=andy-0414&show_icons=true&theme=vue-dark)](https://github.com/andy-0414)
 
