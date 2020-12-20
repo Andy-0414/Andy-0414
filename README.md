@@ -4,6 +4,6 @@
 
 [![README](https://github-readme-stats.vercel.app/api/pin/?username=andy-0414&repo=vue-roller&theme=vue-dark)](https://github.com/andy-0414)
 
+[![README](https://github-readme-stats.vercel.app/api/pin/?username=CirclesApp&repo=circles&theme=vue-dark)](https://github.com/andy-0414)
 
-[![README](https://github-readme-stats.vercel.app/api/pin/?username=CirclesApp&repo=Frontend&theme=vue-dark)](https://github.com/andy-0414)
-[![README](https://github-readme-stats.vercel.app/api/pin/?username=CirclesApp&repo=Backend&theme=vue-dark)](https://github.com/andy-0414)
+[![README](https://github-readme-stats.vercel.app/api/pin/?username=andy-0414&repo=NEM-typescript-v2&theme=vue-dark)](https://github.com/andy-0414)
